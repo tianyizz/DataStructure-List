@@ -1,0 +1,1 @@
+I have made one change in the list.c: in list_init, I can changed the original "list" into "*newLI"
